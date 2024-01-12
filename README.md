@@ -13,6 +13,7 @@ I am a Full-stack developer with over a year of experience in software developme
 
 ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&labelColor=FFF)
 ![Static Badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=1572B6&labelColor=FFF)
+![Static Badge](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=CC6699&labelColor=FFF)
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&labelColor=000000)
 ![Static Badge](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=TYPESCRIPT&labelColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=REACT&labelColor=000000)
