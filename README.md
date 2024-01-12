@@ -7,7 +7,7 @@ I am a Full-stack developer with over a year of experience in software developme
 [![Static Badge](https://img.shields.io/badge/dmitry--ishkov-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dmitry-ishkov/)
 [![Static Badge](https://img.shields.io/badge/%40dmitryIshkov27-26A5E4?style=flat&logo=telegram)](https://t.me/DmitryIshkov27)
 [![Static Badge](https://img.shields.io/badge/dmitryishkov-cd486b?style=flat&logo=instagram&logoColor=ffffff)](https://www.instagram.com/dmitryishkov/)
-[![Static Badge](https://img.shields.io/badge/dmitryishkov27-c71610?style=flat&logo=gmail&logoColor=ffffff)](dmitryishkov27@gmail.com)
+[![Static Badge](https://img.shields.io/badge/dmitryishkov27-c71610?style=flat&logo=gmail&logoColor=ffffff)](mailto:dmitryishkov27@gmail.com)
 
 #### Top Technologies
 
