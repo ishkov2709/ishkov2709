@@ -23,4 +23,4 @@ I am a Full-stack developer with over a year of experience in software developme
 ![Static Badge](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=GIT&logoColor=FFF)
 
 
-<img alt="Dmitry Ishkov's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ishkov2709&show_icons=true&theme=transparent&theme=default" height="200"/>    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishkov2709&layout=compact" height="200"/>
+<img alt="Dmitry Ishkov's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ishkov2709&show_icons=true&theme=transparent&theme=default" height="150"/>    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishkov2709&layout=compact" height="150"/>
